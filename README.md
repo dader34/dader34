@@ -22,7 +22,7 @@ These stats give a glimpse into the languages I frequently work with. Feel free 
 ## Projects Highlights
 Here are some of my notable projects:
 
-1. 🪙 [Crypto Shark](https://dader34.github.io/phase-1-project/))
+1. 🪙 [Crypto Shark](https://dader34.github.io/phase-1-project/)
    - Description: An interactive dashboard for monitoring real-time crypto data.
    - Technologies: Vanilla Js
 
