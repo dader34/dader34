@@ -32,7 +32,7 @@ Here are some of my notable projects:
 
 3. ⛓️ [Link Shortener](https://short.danner.repl.co/)
    - Description: A small platform to create short links, and view most active links.
-   - Technologies: Vanilla html, JS and CSS, Flask, SQLAlchemy
+   - Technologies: html, jinja2, JS and CSS, Flask, SQLAlchemy
 
 Feel free to explore these projects and let me know your thoughts!
 
