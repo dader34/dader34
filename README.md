@@ -27,7 +27,7 @@ Here are some of my notable projects:
    - Technologies: Vanilla Js
 
 2. 💻 [Puppy PlayDate](https://dader34.github.io/puppyPlayDateDB/)
-   - Description: A mock match site for dogs owners to meet up and find puppy friends.
+   - Description: A mock match site for dog owners to meet up and find puppy friends.
    - Technologies: React, Flask, Sqlite3
 
 3. ⛓️ [Link Shortener](https://short.danner.repl.co/)
