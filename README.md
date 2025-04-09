@@ -1,11 +1,11 @@
-# Danner Baumgartner's GitHub Readme
+# Readme
 
-### Hey there! 👋 I'm Danner Baumgartner, a individual with interests in cars 🚗, and software engineering 💻.
+### Hey there! 👋 I'm Danner.
 
 ## About Me
 - 🚗 **Cars:** I have a love for cars, engines, and everything automotive.
 
-- 💻 **Coding:** As a software engineer, I enjoy finding solutions to complex problems and seeing the awesome things that i can make with my brain and a bit of stack overflow... 
+- 💻 **Coding:** As a software engineer, I enjoy finding solutions to complex problems and reverse engineering 
 
 
 ## GitHub Stats
