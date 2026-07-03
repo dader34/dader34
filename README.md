@@ -3,7 +3,7 @@
 ### Hey there! 👋 I'm Danner.
 
 ## About Me
-- **Coding:** I'm a 20 year old full-stack developer from Washington, building tools that make work easier — from hobby projects to business solutions. I got into coding as a kid by tearing apart Roblox game scripts, figuring out how they worked and finding ways to break them.
+- **Coding:** I'm a 20 year old full-stack developer from Washington, building tools that make work easier: from hobby projects to business solutions. I got into coding as a kid by tearing apart Roblox game scripts, figuring out how they worked and finding ways to break them.
 
 - **Cybersecurity:** Currently studying cybersecurity at Everett Community College. I still love finding exploits and poking at systems to see how they tick.
 
