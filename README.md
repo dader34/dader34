@@ -5,7 +5,7 @@
 ## About Me
 - **Coding:** I'm a 21 year old full-stack developer from Washington, building tools that make work easier: from hobby projects to business solutions. I got into coding as a kid by tearing apart Roblox game scripts, figuring out how they worked and finding ways to break them.
 
-- **Cybersecurity:** Currently studying cybersecurity at Everett Community College. I still love finding exploits and poking at systems to see how they tick.
+- **Automotive:** I love reverse-engineering how vehicles and their diagnostic systems work: decompiling ECU firmware, reading proprietary bytecode, and rebuilding dealer-grade tooling from the ground up. Finding exploits and poking at systems to see how they tick is still my favorite way to learn.
 
 - **Cars:** Cars, driving, and all things technology round out the rest of my time.
 
@@ -13,6 +13,11 @@
 `React` `TypeScript` `Python` `Flask` `SQLAlchemy` `Node.js` `Rust` `PostgreSQL` `AWS S3` `WebSockets` `JWT Auth` `Vite`
 
 ## Featured Projects
+
+### [BMWeb](https://bmweb.danner.ink) — BMW Diagnostics in the Browser
+A full BMW diagnostics suite that runs entirely in a web browser, no Windows and nothing to install. A custom bytecode virtual machine executes ECU diagnostic logic, decompiled module screens are interpreted and rendered live, and the car is reached over a K+DCAN cable through Web Serial or over WiFi. Read and clear fault memory, watch live values, run activations, code modules, and share a live session with a remote helper over WebRTC.
+
+`JavaScript` `Python` `WebRTC` `Web Serial` `Service Workers` `Reverse Engineering`
 
 ### [Clockwise](https://sales.clockwisecpa.app) — Time Tracking & Billing for Professional Services
 Full-stack time tracking and billing management system built for CPA firms. Features automated invoice generation, leave bank tracking, WIP queue management, real-time notifications, and a comprehensive admin dashboard.
@@ -28,16 +33,6 @@ Team collaboration and communication platform with drag-and-drop queue managemen
 Full-featured PDF editor that runs entirely in the browser with no server uploads. Supports text annotations, page manipulation, merging, splitting, compression, and conversion between PDFs and images.
 
 `React 19` `TypeScript` `Vite` `pdf-lib` `Tailwind CSS`
-
-### CollabKit — Real-Time Collaboration SDK
-TypeScript client library and Python server for building multiplayer apps. Uses CRDTs for conflict-free state sync, with React hooks for presence tracking, screen sharing, and offline support.
-
-`TypeScript` `React` `FastAPI` `WebSockets` `CRDTs` `PostgreSQL`
-
-### [StyleKit UI](https://dader34.github.io/stylekit-ui/) — Themeable React Component Library
-Component library with 8 distinct visual themes ranging from Apple-inspired minimalism to bold brutalism. Published on npm, WCAG 2.1 compliant, tree-shakeable, and fully typed.
-
-`React` `TypeScript` `Storybook` `npm`
 
 ## GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dader34&layout=compact&langs_count=6&theme=dark)
