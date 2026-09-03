@@ -5,9 +5,7 @@
 ## About Me
 - **Coding:** I'm a 21 year old full-stack developer from Washington, building tools that make work easier: from hobby projects to business solutions. I got into coding as a kid by tearing apart Roblox game scripts, figuring out how they worked and finding ways to break them.
 
-- **Automotive:** I love reverse-engineering how vehicles and their diagnostic systems work: decompiling ECU firmware, reading proprietary bytecode, and rebuilding dealer-grade tooling from the ground up. Finding exploits and poking at systems to see how they tick is still my favorite way to learn.
-
-- **Cars:** Cars, driving, and all things technology round out the rest of my time.
+- **Automotive:** I'm fascinated by how cars and the systems inside them work, and I love reverse-engineering the ones that were never meant to be understood. Taking something apart to see how it ticks, then rebuilding it better, is still my favorite way to learn.
 
 ## Skills
 `React` `TypeScript` `Python` `Flask` `SQLAlchemy` `Node.js` `Rust` `PostgreSQL` `AWS S3` `WebSockets` `JWT Auth` `Vite`
