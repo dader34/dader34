@@ -28,9 +28,6 @@ Full-featured PDF editor that runs entirely in the browser with no server upload
 
 `React 19` `TypeScript` `Vite` `pdf-lib` `Tailwind CSS`
 
-## GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dader34&layout=compact&langs_count=6&theme=dark)
-
 ## Connect with Me
 - **Email:** [danner.baumgartner@gmail.com](mailto:danner.baumgartner@gmail.com)
 - **LinkedIn:** [Danner Baumgartner](https://www.linkedin.com/in/danner-baumgartner-a2a461254)
