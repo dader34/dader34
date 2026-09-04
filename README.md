@@ -35,7 +35,7 @@ Full-featured PDF editor that runs entirely in the browser with no server upload
 ## Connect with Me
 - **Email:** [danner.baumgartner@gmail.com](mailto:danner.baumgartner@gmail.com)
 - **LinkedIn:** [Danner Baumgartner](https://www.linkedin.com/in/danner-baumgartner-a2a461254)
-- **Portfolio:** [dader34.github.io/portfolio](https://danner.ink/portfolio/)
+- **Portfolio:** [danner.ink/portfolio](https://danner.ink/portfolio/)
 
 Feel free to explore these projects and let me know your thoughts!
 
