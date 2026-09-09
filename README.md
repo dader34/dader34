@@ -8,7 +8,7 @@
 - **Automotive:** I'm fascinated by how cars and the systems inside them work, and I love reverse-engineering the ones that were never meant to be understood. Taking something apart to see how it ticks, then rebuilding it better, is still my favorite way to learn.
 
 ## Skills
-`React` `TypeScript` `Python` `Flask` `SQLAlchemy` `Node.js` `Rust` `PostgreSQL` `AWS S3` `WebSockets` `JWT Auth` `Vite`
+`React` `TypeScript` `Python` `Flask` `SQLAlchemy` `Node.js` `PostgreSQL` `AWS S3` `WebSockets` `JWT Auth` `Vite`
 
 ## Featured Projects
 
